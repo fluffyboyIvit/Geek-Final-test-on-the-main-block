@@ -113,7 +113,7 @@ string[] NewArrayLessThan3char(string[] str)
     return newStrArray;
 ```
 
-Реализуем вызов функции. Для начала созаём массив типа `string` и присваиваем ему значения функции(метода) :
+Реализуем вызов функции. Для начала создаём массив типа `string` и присваиваем ему значения функции(метода) :
 ```c#
 string[] newArrResult = NewArrayLessThan3char(strArray);
 ```
